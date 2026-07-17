@@ -18,23 +18,6 @@ A desktop-based Cafe Management System developed in **Python** using **CustomTki
 - sqlite3
 - Tkinter
 
-## 📂 Project Structure
-
-```
-Smart-Cafe-Management-System/
-│
-├── Admin.py
-├── Bill.py
-├── Database.py
-├── GUI.py
-├── Login.py
-├── cafe_app.py
-├── smart_cafe.db
-├── requirements.txt
-├── README.md
-└── screenshots/
-```
-
 ## 🚀 Installation
 
 ### 1. Clone the repository
@@ -72,7 +55,7 @@ pip install -r requirements.txt
 ### 6. Run the project
 
 ```bash
-python cafe_app.py
+python login.py
 ```
 
 ## 📸 Screenshots
@@ -122,9 +105,11 @@ python cafe_app.py
 
 
 
-## 👩‍💻 Developed By
-
-**Alishba Khan**
+## 👥 Team Members
+This project was developed as a semester group project by:
+- **Alishba Khan**
+- **Zunairah Fatima**   ([GitHub](https://github.com/ZunairahFatima))
+- **Muskaan Tauseef**
 
 ---
 
