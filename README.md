@@ -107,9 +107,9 @@ python login.py
 
 ## 👥 Team Members
 This project was developed as a semester group project by:
-**Alishba Khan**
-**Zunairah Fatima**   ([GitHub](https://github.com/ZunairahFatima))
-**Muskaan Tauseef**
+- **Alishba Khan**
+- **Zunairah Fatima**   ([GitHub](https://github.com/ZunairahFatima))
+- **Muskaan Tauseef**
 
 ---
 
