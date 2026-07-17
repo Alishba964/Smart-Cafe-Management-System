@@ -13,7 +13,7 @@ root.config(bg=DARK)
 
 cart = []
 total = tk.DoubleVar(value=0)  # linked with tkinter widgets and update them automatically
-DB_PATH = r"C:\Users\AR FAST\OneDrive\Desktop\Project python\smart_cafe.db"
+DB_PATH = r"C:\Users\AR FAST\OneDrive\Desktop\Smart Cafe Management System\smart_cafe.db"
 
 def get_current_user(): # this fuction is for show account
     try:

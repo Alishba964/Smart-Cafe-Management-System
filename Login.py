@@ -11,7 +11,7 @@ root.geometry("900x600")
 root.config(bg=DARK)
 
 def save_customer(name, phone, email):
-    DB_PATH = r"C:\Users\AR FAST\OneDrive\Desktop\Project python\smart_cafe.db"
+    DB_PATH = r"C:\Users\AR FAST\OneDrive\Desktop\Smart Cafe Management System\smart_cafe.db"
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
     cur.execute("INSERT INTO customers (name, phone, email) VALUES (?, ?, ?)",
